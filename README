@@ -1,2 +1,1 @@
-This is a NFL football play predictor. It uses a decision tree algorithm and was coded using Python. Reference the project report for an in-depth analysis of
-how I created this project. The NFL data can be found here: https://github.com/ryurko/nflscrapR-data/tree/master/play_by_play_data
+This is a NFL football play predictor. It uses a decision tree algorithm and was coded using Python. Reference the project report for an in-depth analysis of how I created this project. The NFL data can be found here: https://github.com/ryurko/nflscrapR-data/tree/master/play_by_play_data
